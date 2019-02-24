@@ -10,7 +10,7 @@ All example blueprints should be submitted in a PR to the [example-blueprints](h
 
 Each community-submitted plugin should have its own unique repository in the [cloudify-community](https://github.com/cloudify-community) Github organization.
 
-To submit a new plugin, send an email to [Cloudify Community](mailto:community@cloudify.co) with the following information:
+To submit a new plugin, send an email to [community@cloudify.co](mailto:community@cloudify.co) with the following information:
 
   - Tell us about yourself and your project and if you have permission to distribute the project.
   - A link to your plugin's Github repository.
