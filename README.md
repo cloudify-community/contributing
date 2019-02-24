@@ -28,7 +28,7 @@ Please be sure to follow the plugin development [best practices](https://cloudif
     * ./
       * ./setup.py
       * ./my_package
-        * ./my_package/__init__.py
+        * ./my_package/\__init\__.py
         * ./my_package/my_module.py
       * ./plugin.yaml
       * ./README.md
